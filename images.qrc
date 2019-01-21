@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/maps">
+        <file>world_day.jpg</file>
+        <file>world_night.jpg</file>
+    </qresource>
+</RCC>
